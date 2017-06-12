@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/GDB" timestamp="1497268519164">
+      <file name="/GDB" timestamp="1497268770475">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/libls-asterix/src/helpers.cpp" timestamp="1497268081100">
@@ -12,29 +12,53 @@
         <mark key="^" line="282" column="3" />
         <mark key="." line="282" column="3" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/Playground/main.cpp" timestamp="1497268532575">
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="14" column="39" />
-        <mark key="." line="14" column="39" />
-        <mark key="^" line="14" column="44" />
+      <file name="$USER_HOME$/CLionProjects/Playground/main.cpp" timestamp="1497268866567">
+        <mark key="[" line="35" column="11" />
+        <mark key="]" line="35" column="22" />
+        <mark key="." line="35" column="22" />
+        <mark key="^" line="35" column="22" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="&quot;" type="4">
+        <text>str</text>
+      </register>
+      <register name="-" type="4">
+        <text>str</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vVE9ETzogUmV3cml0ZSB0aGlzIGZ1bmN0aW9uLiBTdHJpbmcgU3RyZWFtPz8/CiAgICBzdGQ6OnN0cmluZ3N0cmVhbSBzdHJlYW0oIiIpOwogICAgc3RkOjpzdHJpbmcgc3RyID0gIiI7CgogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBsZW5ndGg7IGkrKykKICAgIHsKICAgICAgICBzdHJlYW0gPDwgc3RkOjpzZXRmaWxsKCcwJykgPDwgc3RkOjpzZXR3KDIpIDw8IHN0ZDo6aGV4IDw8IGRhdGFbaV07CiAgICAgICAgc3RyICs9IHN0cmVhbS5zdHIoKTsKICAgIH0KCiAgICByZXR1cm4gc3RyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHJkZl9zZXJpYWxpemVyLmg+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHIgKz0gc3RyZWFtLnN0cigpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>F</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzdGQ6OnN0cmluZ3N0cmVhbSBzdHJlYW0oIiIpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdHIgKz0gc3RyZWFtLnN0cigpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vVE9ETzogUmV3cml0ZSB0aGlzIGZ1bmN0aW9uLiBTdHJpbmcgU3RyZWFtPz8/Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIHN0ciA9ICIiOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nc3RyZWFtIHN0cmVhbSgiIik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzdGQ6OnN0cmluZyBzdHIgPSAiIjsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIHN0ciA9ICIiOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>F</text>
       </register>
     </registers>
     <search>
@@ -52,6 +76,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
