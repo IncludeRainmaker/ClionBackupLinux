@@ -4,9 +4,17 @@
     <property name="created">2017-06-02T15:45:46</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-06-05T11:47:06</property>
+    <property name="modified">2017-06-12T09:27:43</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="SauceCodePro Nerd Font" />
+  <attributes>
+    <option name="OC.SELFSUPERTHIS">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
