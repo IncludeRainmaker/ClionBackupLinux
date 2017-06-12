@@ -1,0 +1,58 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/GDB" timestamp="1497268519164">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/libls-asterix/src/helpers.cpp" timestamp="1497268081100">
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="281" column="14" />
+        <mark key="^" line="282" column="3" />
+        <mark key="." line="282" column="3" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/Playground/main.cpp" timestamp="1497268532575">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="44" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vVE9ETzogUmV3cml0ZSB0aGlzIGZ1bmN0aW9uLiBTdHJpbmcgU3RyZWFtPz8/CiAgICBzdGQ6OnN0cmluZ3N0cmVhbSBzdHJlYW0oIiIpOwogICAgc3RkOjpzdHJpbmcgc3RyID0gIiI7CgogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBsZW5ndGg7IGkrKykKICAgIHsKICAgICAgICBzdHJlYW0gPDwgc3RkOjpzZXRmaWxsKCcwJykgPDwgc3RkOjpzZXR3KDIpIDw8IHN0ZDo6aGV4IDw8IGRhdGFbaV07CiAgICAgICAgc3RyICs9IHN0cmVhbS5zdHIoKTsKICAgIH0KCiAgICByZXR1cm4gc3RyOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPHJkZl9zZXJpYWxpemVyLmg+Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>F</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>F</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
