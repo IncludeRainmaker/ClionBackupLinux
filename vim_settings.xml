@@ -16,12 +16,11 @@
         <mark key="." line="224" column="44" />
         <mark key="^" line="224" column="44" />
       </file>
-      <file name="$USER_HOME$/Desktop/libls-asterix/src/cat002/dabl_cat002_from_json.cpp" timestamp="1497287950795">
-        <mark key="'" line="156" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="9" column="29" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="9" column="29" />
+      <file name="$USER_HOME$/Desktop/libls-asterix/src/cat002/dabl_cat002_from_json.cpp" timestamp="1497288317498">
+        <mark key="'" line="159" column="0" />
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/libls-asterix/include/dabl002.hpp" timestamp="1497287840290">
         <mark key="[" line="34" column="8" />
@@ -91,10 +90,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIkkwMDAgaXMgUHJlc2VudCIgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLT5nZXRfZGF0YV9zb3VyY2VfaWQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>transform</text>
@@ -103,31 +102,31 @@
         <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIkkwMDAgaXMgUHJlc2VudCIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLT5nZXRfZGF0YV9zb3VyY2VfaWQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFNldCB0aGUgTG9jYWwgal9kYXRhIGZpZWxkLgogICAgdGhpcy0+ZnJvbV9qc29uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIC8vIFNldCB0aGUgTG9jYWwgal9kYXRhIGZpZWxkLgogICAgdGhpcy0+ZnJvbV9qc29uKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIFNldCB0aGUgTG9jYWwgal9kYXRhIGZpZWxkLgogICAgdGhpcy0+ZnJvbV9qc29uKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpkYWJsMDAyOjpkYWJsMDAyKCk6ZGF0YV9ibG9jaygyKQp7Cn0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CgpkYWJsMDAyOjpkYWJsMDAyKCk6ZGF0YV9ibG9jaygyKQp7Cn0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBAYnJpZWYgVGhlIGVtcHR5IGNvbnN0cnVjdG9yIHRoYXQgc2V0cyB0aGUgY2F0ZWdvcnkgdG8gMgogICAgICAgICAqLwogICAgICAgIGRhYmwwMDIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uIGpfZGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBAYnJpZWYgVGhlIGVtcHR5IGNvbnN0cnVjdG9yIHRoYXQgc2V0cyB0aGUgY2F0ZWdvcnkgdG8gMgogICAgICAgICAqLwogICAgICAgIGRhYmwwMDIoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -183,6 +182,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
