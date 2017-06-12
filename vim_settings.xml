@@ -16,17 +16,20 @@
         <mark key="." line="224" column="44" />
         <mark key="^" line="224" column="44" />
       </file>
-      <file name="$USER_HOME$/Desktop/libls-asterix/src/cat002/dabl_cat002_from_json.cpp" timestamp="1497285229490">
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Desktop/libls-asterix/src/cat002/dabl_cat002_from_json.cpp" timestamp="1497287950795">
+        <mark key="'" line="156" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/libls-asterix/include/dabl002.hpp" timestamp="1497285443273">
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Desktop/libls-asterix/include/dabl002.hpp" timestamp="1497287840290">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="8" />
+        <mark key="." line="34" column="8" />
+        <mark key="^" line="34" column="13" />
       </file>
-      <file name="$USER_HOME$/Desktop/libls-asterix/src/data_block.cpp" timestamp="1497285105417">
+      <file name="$USER_HOME$/Desktop/libls-asterix/src/data_block.cpp" timestamp="1497287064119">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="36" />
         <mark key="." line="29" column="36" />
@@ -48,7 +51,7 @@
         <mark key="^" line="18" column="38" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/libls-asterix/include/cat002.hpp" timestamp="1497275683633">
+      <file name="$USER_HOME$/Desktop/libls-asterix/include/cat002.hpp" timestamp="1497287415761">
         <mark key="[" line="110" column="71" />
         <mark key="]" line="110" column="71" />
         <mark key="^" line="107" column="71" />
@@ -63,16 +66,17 @@
       <file name="/fragment.mm" timestamp="1497281693792">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/libls-asterix/include/data_block.hpp" timestamp="1497284898725">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="29" column="50" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/Desktop/libls-asterix/include/data_block.hpp" timestamp="1497287834331">
+        <mark key="[" line="57" column="15" />
+        <mark key="]" line="57" column="15" />
+        <mark key="^" line="57" column="21" />
+        <mark key="." line="57" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/libls-asterix/src/cat002/dabl002.cpp" timestamp="1497285459971">
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Desktop/libls-asterix/src/cat002/dabl002.cpp" timestamp="1497287921569">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/libls-asterix/include/helpers.hpp" timestamp="1497282300741">
         <mark key="[" line="291" column="0" />
@@ -86,11 +90,11 @@
       <jump line="155" column="0" filename="$USER_HOME$/Desktop/libls-asterix/src/cat002/dabl_cat002_from_json.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMtPmpfZGF0YQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>string_to_hex</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>transform</text>
@@ -99,31 +103,31 @@
         <text encoding="base64">c3RkOjp2ZWN0b3I8dWludDhfdD4gc3RyaW5nX3RvX2hleChzdGQ6OnN0cmluZyBzdHIpCnsKICAgIHN0ZDo6dmVjdG9yPHVpbnQ4X3Q+IHZlY3Q7CgogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzdHIuc2l6ZSgpOyBpKz0yKQogICAgewogICAgICAgIGludCB2YWwgPSAyOwogICAgICAgIHN0ZDo6c3RyaW5nc3RyZWFtIHN0cmVhbTsKCiAgICAgICAgc3RyZWFtIDw8IHN0ci5zdWJzdHIoaSwgMik7CiAgICAgICAgc3RyZWFtID4+IHN0ZDo6aGV4ID4+IHZhbDsKICAgICAgICB2ZWN0LnB1c2hfYmFjaygodWludDhfdCkgdmFsKTsKICAgIH0KCiAgICByZXR1cm4gdmVjdDsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMtPmpfZGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IFdyaXRlIHRoZSBqc29uIHRvIGFzeCBmdW5jdGlvbnMuCg==</text>
+        <text encoding="base64">ICAgIC8vIFNldCB0aGUgTG9jYWwgal9kYXRhIGZpZWxkLgogICAgdGhpcy0+ZnJvbV9qc29uKCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RkOjp2ZWN0b3I8ZGF0YV9ibG9jaz4gZGF0YV9ibG9jazo6cmVhZChzdGQ6OnN0cmluZyBwYXRoKQp7CiAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcmVhZCBmdW5jdGlvbgp9Cgp2b2lkIGRhdGFfYmxvY2s6OndyaXRlKHN0ZDo6c3RyaW5nIHBhdGgsIHN0ZDo6dmVjdG9yPGRhdGFfYmxvY2s+IGRhYmwpCnsKICAgIAp9Cgo=</text>
+        <text encoding="base64">ICAgIC8vIFNldCB0aGUgTG9jYWwgal9kYXRhIGZpZWxkLgogICAgdGhpcy0+ZnJvbV9qc29uKCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RkOjp2ZWN0b3I8ZGF0YV9ibG9jaz4gZGF0YV9ibG9jazo6cmVhZChzdGQ6OnN0cmluZyBwYXRoKQp7CiAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcmVhZCBmdW5jdGlvbgp9Cg==</text>
+        <text encoding="base64">CgpkYWJsMDAyOjpkYWJsMDAyKCk6ZGF0YV9ibG9jaygyKQp7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dm9pZCBkYXRhX2Jsb2NrOjp3cml0ZShzdGQ6OnN0cmluZyBwYXRoLCBzdGQ6OnZlY3RvcjxkYXRhX2Jsb2NrPiBkYWJsKQp7CiAgICAKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBAYnJpZWYgVGhlIGVtcHR5IGNvbnN0cnVjdG9yIHRoYXQgc2V0cyB0aGUgY2F0ZWdvcnkgdG8gMgogICAgICAgICAqLwogICAgICAgIGRhYmwwMDIoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqc29uIGpfZGF0YTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -145,6 +149,8 @@
         <entry encoding="base64">JzwsJz4zNw==</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>42</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
