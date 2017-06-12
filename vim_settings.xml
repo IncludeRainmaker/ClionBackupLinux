@@ -9,9 +9,9 @@
       <file name="/Dummy.txt" timestamp="1497270531581">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/libls-asterix/src/helpers.cpp" timestamp="1497269056493">
-        <mark key="[" line="271" column="0" />
-        <mark key="]" line="279" column="24" />
+      <file name="$USER_HOME$/Desktop/libls-asterix/src/helpers.cpp" timestamp="1497272678013">
+        <mark key="[" line="277" column="5" />
+        <mark key="]" line="281" column="24" />
         <mark key="^" line="271" column="3" />
         <mark key="." line="271" column="0" />
       </file>
@@ -21,11 +21,11 @@
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/libls-asterix/src/cat002/dabl_cat002_from_json.cpp" timestamp="1497270832822">
-        <mark key="[" line="75" column="4" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="76" column="32" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Desktop/libls-asterix/src/cat002/dabl_cat002_from_json.cpp" timestamp="1497272612733">
+        <mark key="[" line="78" column="7" />
+        <mark key="]" line="76" column="41" />
+        <mark key="^" line="76" column="41" />
+        <mark key="." line="76" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/libls-asterix/include/helpers.hpp" timestamp="1497269287837">
         <mark key="[" line="296" column="2" />
