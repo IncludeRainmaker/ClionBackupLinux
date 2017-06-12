@@ -9,38 +9,33 @@
       <file name="/Dummy.txt" timestamp="1497270531581">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/libls-asterix/src/helpers.cpp" timestamp="1497273321598">
+      <file name="$USER_HOME$/Desktop/libls-asterix/src/helpers.cpp" timestamp="1497278897696">
         <mark key="'" line="210" column="16" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="284" column="32" />
-        <mark key="^" line="284" column="32" />
-        <mark key="." line="284" column="32" />
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="226" column="42" />
+        <mark key="^" line="226" column="42" />
+        <mark key="." line="226" column="42" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/Playground/main.cpp" timestamp="1497273712127">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-        <mark key="^" line="15" column="34" />
+      <file name="$USER_HOME$/Desktop/libls-asterix/src/cat002/dabl_cat002_from_json.cpp" timestamp="1497277014550">
+        <mark key="[" line="167" column="73" />
+        <mark key="]" line="166" column="30" />
+        <mark key="." line="166" column="30" />
+        <mark key="^" line="166" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/libls-asterix/src/cat002/dabl_cat002_from_json.cpp" timestamp="1497275744401">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="^" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+      <file name="$USER_HOME$/Desktop/libls-asterix/include/dabl002.hpp" timestamp="1497278638895">
+        <mark key="[" line="37" column="19" />
+        <mark key="]" line="37" column="58" />
+        <mark key="." line="37" column="58" />
+        <mark key="^" line="37" column="58" />
       </file>
-      <file name="$USER_HOME$/Desktop/libls-asterix/include/helpers.hpp" timestamp="1497269287837">
-        <mark key="[" line="296" column="2" />
-        <mark key="]" line="298" column="50" />
-        <mark key="." line="298" column="50" />
-        <mark key="^" line="298" column="50" />
-      </file>
+      <file name="$USER_HOME$/Desktop/libls-asterix/src/data_block.cpp" timestamp="1497278197501" />
       <file name="$USER_HOME$/Desktop/libls-asterix/src/cat002/dabl_cat002_to_json.cpp" timestamp="1497269553321">
         <mark key="[" line="202" column="30" />
         <mark key="]" line="202" column="41" />
         <mark key="." line="202" column="41" />
         <mark key="^" line="202" column="41" />
       </file>
-      <file name="$USER_HOME$/Desktop/libls-asterix/src/cat002/cat002_decode_json.cpp" timestamp="1497270558922">
+      <file name="$USER_HOME$/Desktop/libls-asterix/src/cat002/cat002_decode_json.cpp" timestamp="1497277079822">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="109" column="4" />
       </file>
@@ -56,16 +51,41 @@
         <mark key="^" line="107" column="71" />
         <mark key="." line="110" column="71" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/Playground/main.cpp" timestamp="1497273712127">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+      </file>
+      <file name="$USER_HOME$/Desktop/libls-asterix/include/data_block.hpp" timestamp="1497278549912">
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="57" column="69" />
+        <mark key="." line="57" column="69" />
+        <mark key="^" line="57" column="69" />
+      </file>
+      <file name="$USER_HOME$/Desktop/libls-asterix/src/cat002/dabl002.cpp" timestamp="1497278460082">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desktop/libls-asterix/include/helpers.hpp" timestamp="1497277507474">
+        <mark key="[" line="294" column="26" />
+        <mark key="]" line="294" column="26" />
+        <mark key="." line="294" column="26" />
+        <mark key="^" line="294" column="48" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="210" column="16" filename="$USER_HOME$/Desktop/libls-asterix/src/helpers.cpp" />
+      <jump line="155" column="0" filename="$USER_HOME$/Desktop/libls-asterix/src/cat002/dabl_cat002_from_json.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gcmVjIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>asx_to_json</text>
       </register>
       <register name="/" type="4">
         <text>transform</text>
@@ -74,34 +94,34 @@
         <text encoding="base64">ICAgIHRoaXMtPmFzeC5keW5hbWljX3dpbi0+cmhvX2VuZCA9IHRtcFsiIl07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gcmVjIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiBBYnN0cmFjdCBmdW5jdGlvbnMgZG9jdW1lbnRlZCBpbiBkYXRhX2Jsb2NrLmhwcCAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICAgICAqIAogICAgICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLT5hc3gucGxvdF9jb3VudF92YWwtPmF0KGkpLmEKICAgICAgICB0aGlzLT5hc3gucGxvdF9jb3VudF92YWwtPmF0KGkpLmlkZW50ID0gdG1wWyJJZGVudCJdW2ldOwogICAgICAgIHRoaXMtPmFzeC5wbG90X2NvdW50X3ZhbC0+YXQoaSkuY291bnRlciA9IHRtcFsiQ291bnRlciJdW2ldOwo=</text>
+        <text encoding="base64">ICAgICAgICB2b2lkIGFzeF90b19qc29uKCk7CgogICAgICAgIHZvaWQganNvbl90b19hc3goKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLT5hc3gucGxvdF9jb3VudF92YWwtPnB1c2hfYmFjayh0bXBbIkEiXVtpXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBAYnJpZWYgVGhpcyBmdW5jdGlvbiBjb252ZXJ0cyB0aGUganNvbiB0byBhc3gKICAgICAgICAgKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLT5hc3gucGxvdF9jb3VudF92YWwtPmF0KGkpLmEgPSB0bXBbIkEiXVtpXTsK</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBAYnJpZWYgVGhpcyBmdW5jdGlvbiBjb252ZXJ0cyB0aGUgYXN4X3RvX2pzb24sIHRoaXMgd2lsbCBjYWxsIHRoZQogICAgICAgICAqIHJlc3Qgb2YgdGhlIGZ1bmN0aW9ucyBmb3Igd3JpdGluZyBqc29uLgogICAgICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYXJyYXlfc2l6ZTsgaSsrKQogICAgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgc3RkOjpjb3V0IDw8IHN0ciA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -119,8 +139,8 @@
         <entry>5</entry>
         <entry encoding="base64">JzwsJz4zNw==</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -146,6 +166,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
